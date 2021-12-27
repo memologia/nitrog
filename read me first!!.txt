@@ -1,0 +1,23 @@
+Sorry for delay but now here it is!!!! (after 1 month lmao)
+
+
+Make sure you have the latest version of python installed
+Python download link: https://python.org/downloads
+
+Step 1. Download the file.
+Step 2. Extract the files using any tool (default windows tool will also work).
+Step 3. Open this file
+Step 4. Open CMD ( command prompt ) in the folder
+Step 5. Paste this command in there: py -m pip install -r requirements.txt
+Step 6. Wait until all the dependencies are installed (usually it takes 10-30 seconds)
+Step 7. Close CMD ( command prompt )
+Step 8. Run main.py
+Step 9. Enter the amount of codes to generate
+Step 10. Be lucky! 
+
+Extra notes:
+1. Don't enter amount more than 10000000 in the checker
+2. Put somewhat like a million codes in checker and be AFK
+3. Subscribe me for extra luck
+4. Join my discord for even more luck
+5. Like this video for the last bonus of luck :P
